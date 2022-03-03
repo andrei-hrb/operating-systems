@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # i)
 touch ~/programe/program1.c ~/programe/program2.c ~/programe/program2.h
 

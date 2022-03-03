@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # i)
 mkdir ~/programe
 
